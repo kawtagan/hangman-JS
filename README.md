@@ -3,7 +3,7 @@
 the Array I created with javascript is limited...a clue ? if you don't find it, look at the previous sentence, it's obvious isn't it ? :stuck_out_tongue_winking_eye:
 
 
-I did this project only to make you laugh. So # enjoy
+I did this project only to make you laugh. So #enjoy
 
 :joy: :joy: :joy:
 
