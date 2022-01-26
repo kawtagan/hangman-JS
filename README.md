@@ -3,7 +3,7 @@
 the Array I created with javascript is limited...a clue ? if you don't find it, look at the previous sentence, it's obvious isn't it ? :stuck_out_tongue_winking_eye:
 
 
-I did this project only to make you laugh. So #enjoy
+I did this project only to make you laugh. So **ENJOY** 
 
 :joy: :joy: :joy:
 
@@ -15,3 +15,5 @@ I did this project only to make you laugh. So #enjoy
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+
+![Alt text](https://media.giphy.com/media/4pMX5rJ4PYAEM/giphy.gif)
